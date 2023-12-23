@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Poets/static/css/main.9ca5fdfd.css",
+    "main.js": "/Poets/static/js/main.0a44ec15.js",
+    "static/js/787.43f7d673.chunk.js": "/Poets/static/js/787.43f7d673.chunk.js",
+    "static/media/paper.jpg": "/Poets/static/media/paper.067f4c2c0d8594aa5df1.jpg",
+    "static/media/Якуб2.jpg": "/Poets/static/media/Якуб2.fd0def04aac51ec1da3e.jpg",
+    "static/media/Антон1.jpg": "/Poets/static/media/Антон1.6b50ff0b8c2d5ee2609d.jpg",
+    "static/media/Nil3.jpg": "/Poets/static/media/Nil3.3c89c49d9607b704171a.jpg",
+    "static/media/Якуб4.jpg": "/Poets/static/media/Якуб4.42a715522706da5497a2.jpg",
+    "static/media/Maks3.jpg": "/Poets/static/media/Maks3.5c4b3011bb2c18bcdcca.jpg",
+    "static/media/ЯкубГориз.jpg": "/Poets/static/media/ЯкубГориз.d32c1fa739b3a3c87d54.jpg",
+    "static/media/NilHoriz.jpg": "/Poets/static/media/NilHoriz.f6b530bee57e9a06411c.jpg",
+    "static/media/KorotkyHoriz.jpg": "/Poets/static/media/KorotkyHoriz.f0f0a73cc3b6028d1537.jpg",
+    "static/media/Янка3.jpg": "/Poets/static/media/Янка3.462670dc2acb646676c9.jpg",
+    "static/media/Nil1.jpg": "/Poets/static/media/Nil1.358bf18b29dd2bd40d26.jpg",
+    "static/media/Maks1.jpg": "/Poets/static/media/Maks1.d0357dd9dda8fd90677a.jpg",
+    "static/media/Maks2.jpg": "/Poets/static/media/Maks2.637d4f197978ac348969.jpg",
+    "static/media/Nil2.jpg": "/Poets/static/media/Nil2.e2541e87e3de647caac8.jpg",
+    "static/media/Korotky3.jpg": "/Poets/static/media/Korotky3.502e6002d034898bec3d.jpg",
+    "static/media/MaksHoriz.jpeg": "/Poets/static/media/MaksHoriz.3852be1321bb7fbea405.jpeg",
+    "static/media/Янка1.jpg": "/Poets/static/media/Янка1.cb2ca9d8bd7c1c00fc08.jpg",
+    "static/media/Korotky1.jfif": "/Poets/static/media/Korotky1.5d3b4ea44240173e4aee.jfif",
+    "static/media/Якуб4.jfif": "/Poets/static/media/Якуб4.c9e0ceb949566b83c578.jfif",
+    "static/media/Korotky2.jfif": "/Poets/static/media/Korotky2.6e553386e5c396d05784.jfif",
+    "static/media/ЯнкаГоризонт.jfif": "/Poets/static/media/ЯнкаГоризонт.40fc7a1553ea5d682c31.jfif",
+    "static/media/Янка2.jfif": "/Poets/static/media/Янка2.f8a1edf26ce12b943b66.jfif",
+    "index.html": "/Poets/index.html",
+    "static/media/getFetch.cjs": "/Poets/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.9ca5fdfd.css.map": "/Poets/static/css/main.9ca5fdfd.css.map",
+    "main.0a44ec15.js.map": "/Poets/static/js/main.0a44ec15.js.map",
+    "787.43f7d673.chunk.js.map": "/Poets/static/js/787.43f7d673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ca5fdfd.css",
+    "static/js/main.0a44ec15.js"
+  ]
+}
