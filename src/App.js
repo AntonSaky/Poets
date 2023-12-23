@@ -18,6 +18,7 @@ function App() {
         <NaviBar />
         <Switch>
           <Route exact path="/" component={Home} />
+          <Route path="/poets" component={Home} />
           <Route path="/listpoet" component={ListPoet} />
           <Route path="/about" component={Authors} />
           <Route path="/anton" component={Anton} />
