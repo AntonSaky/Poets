@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Poets/static/css/main.9ca5fdfd.css",
-    "main.js": "/Poets/static/js/main.0a44ec15.js",
+    "main.js": "/Poets/static/js/main.a5a4141d.js",
     "static/js/787.43f7d673.chunk.js": "/Poets/static/js/787.43f7d673.chunk.js",
     "static/media/paper.jpg": "/Poets/static/media/paper.067f4c2c0d8594aa5df1.jpg",
     "static/media/Якуб2.jpg": "/Poets/static/media/Якуб2.fd0def04aac51ec1da3e.jpg",
@@ -28,11 +28,11 @@
     "index.html": "/Poets/index.html",
     "static/media/getFetch.cjs": "/Poets/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.9ca5fdfd.css.map": "/Poets/static/css/main.9ca5fdfd.css.map",
-    "main.0a44ec15.js.map": "/Poets/static/js/main.0a44ec15.js.map",
+    "main.a5a4141d.js.map": "/Poets/static/js/main.a5a4141d.js.map",
     "787.43f7d673.chunk.js.map": "/Poets/static/js/787.43f7d673.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ca5fdfd.css",
-    "static/js/main.0a44ec15.js"
+    "static/js/main.a5a4141d.js"
   ]
 }
